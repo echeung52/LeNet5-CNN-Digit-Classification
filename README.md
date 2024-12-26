@@ -1,4 +1,4 @@
 # LeNet5-CNN-Digit-Classification
 
-Implemented original LeNet5 architecture and trained on this dataset: 
+Implemented LeNet5 architecture from original research paper by Yann LeCun and trained on this dataset: 
 https://www.kaggle.com/datasets/karnikakapoor/digits
